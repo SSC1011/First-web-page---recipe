@@ -1,7 +1,7 @@
 
 body {
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 	color: black;
 	font-style: normal;
 	background-color: aliceblue;
@@ -27,16 +27,15 @@ h1,
 h2 {
 	color: whitesmoke;
 	text-transform: uppercase;
-	font-weight: 200;
 	background-color: pink;	
 }
 
 P {
-	font-size: 14;
+	font-size: 14px;
 }
 
 img {
-	width: 50%;
+	width: 100%;
 	border: 10px solid black;
 }
 
@@ -44,6 +43,6 @@ footer {
     background-color: pink;
     color: whitesmoke;
     text-align: center;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
