@@ -1,7 +1,7 @@
 
 body {
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	font-size: 60px;
+	font-size: 18px;
 	color: black;
 	font-style: normal;
 	background-color: aliceblue;
@@ -31,8 +31,12 @@ h2 {
 	background-color: pink;	
 }
 
+P {
+	font-size: 14;
+}
+
 img {
-	width: 30%;
+	width: 50%;
 	border: 10px solid black;
 }
 
