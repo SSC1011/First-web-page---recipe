@@ -1,0 +1,45 @@
+
+body {
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 60px;
+	color: black;
+	font-style: normal;
+	background-color: aliceblue;
+	margin-left: 2%;
+    width: 75%;
+    text-align: left;
+    align-content: left;
+	
+}
+
+#container {
+	width: auto;
+	margin: auto;
+}
+
+h1 {
+	font-size: 200%;
+	background-color: whitesmoke;	
+	text-transform: uppercase;
+}
+
+h1,
+h2 {
+	color: whitesmoke;
+	text-transform: uppercase;
+	font-weight: 200;
+	background-color: pink;	
+}
+
+img {
+	width: 30%;
+	border: 10px solid black;
+}
+
+footer {
+    background-color: pink;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
